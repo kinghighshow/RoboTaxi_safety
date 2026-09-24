@@ -1,0 +1,9 @@
+# Core data analysis and plotting
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.5
+seaborn>=0.12
+
+# Notebook environment (provides IPython.display used by the loader class)
+ipython>=8.0
+jupyter>=1.0
